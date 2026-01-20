@@ -5,7 +5,7 @@ const postsDir = path.join(__dirname, '../posts');
 const assetsDir = path.join(__dirname, '../assets');
 const outputFile = path.join(assetsDir, 'blog_data.js');
 const sitemapFile = path.join(__dirname, '../sitemap.xml');
-const SITE_URL = 'https://3d-printing-services-delta.vercel.app'; // Update with actual domain if different
+const SITE_URL = 'https://sheetmetaldesign1-pixel.github.io/3d-printing';
 
 // Ensure assets directory exists
 if (!fs.existsSync(assetsDir)) {
