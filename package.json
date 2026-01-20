@@ -1,0 +1,12 @@
+{
+    "name": "industrial-mechanical-designs-web",
+    "version": "1.0.0",
+    "description": "Website for Tesla Mechanical Designs",
+    "scripts": {
+        "build": "node scripts/generate_blog_data.js",
+        "dev": "npx serve ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
